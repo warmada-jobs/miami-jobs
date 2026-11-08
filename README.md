@@ -1,3 +1,67 @@
-# Miami jobs
+# Miami Jobs
 
-This README is generated every day from [warmada.com/lists/miami.md](https://warmada.com/lists/miami.md). The first run of the update workflow replaces this stub with the list.
+Open roles in Miami: 26 roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-08.
+
+All 26 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
+
+**By role:** Software Engineering (1) · Marketing (1) · Sales (4) · Customer Success (1) · Operations (4) · Other (15)
+
+**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when its posting names Miami. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+
+A bad listing? Email hello@warmada.com with the link.
+
+## Software Engineering (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [luxor.tech](https://warmada.com/companies/luxor-tech?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Mining Pool &amp; Firmware | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/fb381f98-971c-4b3c-92c9-bd3b3fe10b15) · [Find the hiring manager](https://warmada.com/job/luxor-tech-business-development-mining-pool-and-firmware-8a53dcdc-c196-4ece-8231-659b32fddb7a?utm_source=github&utm_medium=list&utm_campaign=miami) |
+
+## Marketing (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Roving Sales &amp; Marketing Associate - Miami | Miami, FL, 33137 | Oct 29 | [Apply](https://www.bozzuto.com/careers/job-search/5466359008/?gh_jid=5466359008) · [Find the hiring manager](https://warmada.com/job/bozzuto-roving-sales-and-marketing-associate-miami-94670c30-30e1-42df-8680-4375746bb2ba?utm_source=github&utm_medium=list&utm_campaign=miami) |
+
+## Sales (4)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [luxor.tech](https://warmada.com/companies/luxor-tech?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Energy &amp; Commander | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-tech-business-development-energy-and-commander-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [luxor.tech](https://warmada.com/companies/luxor-tech?utm_source=github&utm_medium=list&utm_campaign=miami) | Bitcoin Mining Services - Business Development | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/728b990b-6ff1-4e87-ba05-27d48cad768f) · [Find the hiring manager](https://warmada.com/job/luxor-tech-bitcoin-mining-services-business-development-a4441839-cff9-48ae-bbca-afde1dd39ad7?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | HP Retail Sales Representative | Miami, FL | Nov 3 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/HP-Retail-Sales-Representative_REQ_116096) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-representative-0f3afe51-976e-491b-88e3-965270f1604f?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=miami) | Strategic Partnership Specialist, Miami | Miami, FL | Oct 29 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8923836002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-strategic-partnership-specialist-miami-8c06967e-8d5c-4373-868d-0e036e2b16dc?utm_source=github&utm_medium=list&utm_campaign=miami) |
+
+## Customer Success (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Professional Services Consultant | Miami, FL, United States | Oct 27 | [Apply](https://ripple.com/careers/all-jobs/job/8328926?gh_jid=8328926) · [Find the hiring manager](https://warmada.com/job/ripple-professional-services-consultant-74e7fa59-7fd3-498e-b36a-ffde25b216bb?utm_source=github&utm_medium=list&utm_campaign=miami) |
+
+## Operations (4)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=miami) | Impact Fees and Special Assessments Project Manager | Fort Lauderdale, FL; Jacksonville, FL; Miami, FL; Tallahassee, FL; Tampa, FL | Nov 6 | [Apply](https://www.benesch.com/job-openings/5287898007?gh_jid=5287898007) · [Find the hiring manager](https://warmada.com/job/benesch-impact-fees-and-special-assessments-project-manager-adde1f7f-8156-4450-acff-1212bc91b96d?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Tower Research Capital](https://warmada.com/companies/tower-research-capital?utm_source=github&utm_medium=list&utm_campaign=miami) | AI Enablement Lead | New York, Chicago, Charleston, Las Vegas, Miami | Nov 4 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8249131) · [Find the hiring manager](https://warmada.com/job/tower-research-capital-ai-enablement-lead-59db43bd-5826-4c13-9424-988a65f9c988?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| Gemini | Senior Associate, Fraud Operations | New York, New York; Miami, Florida; Remote (USA) | Nov 2 | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8328881&gh_jid=8328881) · [Find the hiring manager](https://warmada.com/job/gemini-senior-associate-fraud-operations-7501fc4a-d158-4edb-bd8e-e3ad9f5cbdff?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Project Manager | Miami, FL, United States | Oct 28 | [Apply](https://ripple.com/careers/all-jobs/job/8329000?gh_jid=8329000) · [Find the hiring manager](https://warmada.com/job/ripple-project-manager-0b021e55-6dc8-4110-87dd-e3653e063966?utm_source=github&utm_medium=list&utm_campaign=miami) |
+
+## Other (15)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Technical Success Manager | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Houston, Texas, USA; Miami, Florida, USA | Nov 6 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5441727008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-technical-success-manager-ca8d73d8-b61c-43b0-9b68-3d7871060ebf?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=miami) | Data Center Technician - Miami, FL | Miami, FL | Nov 5 | [Apply](https://coreweave.com/careers/job?4727033006&board=coreweave&gh_jid=4727033006) · [Find the hiring manager](https://warmada.com/job/coreweave-data-center-technician-miami-fl-75c5c92f-14f0-43e0-800b-6917a51c7310?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Leasing Consultant | MIAMI, FL, 33127 | Nov 5 | [Apply](https://www.bozzuto.com/careers/job-search/5474204008/?gh_jid=5474204008) · [Find the hiring manager](https://warmada.com/job/bozzuto-leasing-consultant-86d7aa25-be50-4d40-b2fe-006c4b8107d9?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Gopuff](https://warmada.com/companies/gopuff?utm_source=github&utm_medium=list&utm_campaign=miami) | Category Manager - General Merchandise | Miami, FL | Nov 4 | [Apply](https://jobs.lever.co/gopuff/5a073415-cddf-4ede-b565-7d8c902107d6) · [Find the hiring manager](https://warmada.com/job/gopuff-category-manager-general-merchandise-9ef71dfe-10af-4ccc-863f-0e737715cf5b?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [serverobotics.com](https://warmada.com/companies/serverobotics-com?utm_source=github&utm_medium=list&utm_campaign=miami) | Service Technician II | Miami, FL | Nov 3 | [Apply](https://jobs.ashbyhq.com/serverobotics/d1928ef2-6088-4c69-9894-5ca3b6aaff76) · [Find the hiring manager](https://warmada.com/job/serverobotics-com-service-technician-ii-2cb9b151-4aa5-45b0-821d-c9847e3e4c8c?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=miami) | Service Assistant - Miami, FL | Miami, FL | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5282861007?gh_jid=5282861007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-assistant-miami-fl-ae13812a-770f-46b3-94d1-6a2452e0de72?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=miami) | Service Supervisor, Miami | Miami, FL | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5280494007?gh_jid=5280494007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-supervisor-miami-afb48756-28c7-4a15-8c8e-1a0e2b6ba506?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=miami) | Heavy Equipment CDL Driver | Miami, FL | Nov 3 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8346882) · [Find the hiring manager](https://warmada.com/job/equipmentshare-heavy-equipment-cdl-driver-c54a9123-a71e-40ca-9f0a-b5448f739f0d?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [abercrombie.com](https://warmada.com/companies/abercrombie-com?utm_source=github&utm_medium=list&utm_campaign=miami) | Key Lead - Brickell City Centre, Abercrombie &amp; Fitch | Miami, Florida | Nov 3 | [Apply](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Miami-Florida/Key-Lead---Brickell-City-Centre--Abercrombie---Fitch_JR101614) · [Find the hiring manager](https://warmada.com/job/abercrombie-com-key-lead-brickell-city-centre-abercrombie-and-fitch-ca3ecb36-448e-44b5-9e73-492558f23ef3?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [abercrombie.com](https://warmada.com/companies/abercrombie-com?utm_source=github&utm_medium=list&utm_campaign=miami) | Store Manager - Dolphin Mall, Hollister | Miami, Florida | Oct 31 | [Apply](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Miami-Florida/Store-Manager---Dolphin-Mall--Hollister_JR104108) · [Find the hiring manager](https://warmada.com/job/abercrombie-com-store-manager-dolphin-mall-hollister-0c5fc26e-0321-4746-a6a2-c0f2ee4b3313?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [sweetgreen](https://warmada.com/companies/sweetgreen?utm_source=github&utm_medium=list&utm_campaign=miami) | Restaurant General Manager | Miami, FL | Oct 30 | [Apply](https://careers.sweetgreen.com/jobs/8337835?gh_jid=8337835) · [Find the hiring manager](https://warmada.com/job/sweetgreen-restaurant-general-manager-f464770b-7ff4-4689-b15e-570810707e26?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | Retail Display Installer – Technology | Miami, FL | Oct 30 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/Retail-Display-Installer---Technology_REQ_115948) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-retail-display-installer-technology-9639827c-ab59-44af-9ce6-c7374e9d2900?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [sweetgreen](https://warmada.com/companies/sweetgreen?utm_source=github&utm_medium=list&utm_campaign=miami) | Head Coach | Miami, FL | Oct 28 | [Apply](https://careers.sweetgreen.com/jobs/8065759?gh_jid=8065759) · [Find the hiring manager](https://warmada.com/job/sweetgreen-head-coach-3d913638-3e91-498f-9a75-0a69a0671543?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=miami) | General Manager | Miami, FL | Oct 28 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8331984) · [Find the hiring manager](https://warmada.com/job/equipmentshare-general-manager-50d38436-08ea-44bb-a15d-684c870fb419?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [abercrombie.com](https://warmada.com/companies/abercrombie-com?utm_source=github&utm_medium=list&utm_campaign=miami) | Assistant Manager - Dolphin Mall, abercrombie kids | Miami, Florida | Oct 27 | [Apply](https://abercrombie.wd108.myworkdayjobs.com/anf/job/Miami-Florida/Assistant-Manager---Dolphin-Mall--abercrombie-kids_JR103703) · [Find the hiring manager](https://warmada.com/job/abercrombie-com-assistant-manager-dolphin-mall-abercrombie-kids-26b5ff4b-960e-41db-851f-c58e35e3e245?utm_source=github&utm_medium=list&utm_campaign=miami) |
