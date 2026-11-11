@@ -1,10 +1,10 @@
 # Miami Jobs
 
-Open roles in Miami: 25 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-10.
+Open roles in Miami: 25 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-11.
 
 All 25 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
-**By role:** Software Engineering (1) · Marketing (1) · Sales (4) · Customer Success (1) · Operations (4) · Other (14)
+**By role:** Software Engineering (1) · Marketing (1) · Sales (4) · Operations (4) · Other (15)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Miami. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -31,12 +31,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | HP Retail Sales Representative | Miami, FL | Nov 3 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/HP-Retail-Sales-Representative_REQ_116096) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-representative-0f3afe51-976e-491b-88e3-965270f1604f?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=miami) | Strategic Partnership Specialist, Miami | Miami, FL | Oct 29 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8923836002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-strategic-partnership-specialist-miami-8c06967e-8d5c-4373-868d-0e036e2b16dc?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Customer Success (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Professional Services Consultant | Miami, FL, United States | Oct 27 | [Apply](https://ripple.com/careers/all-jobs/job/8328926?gh_jid=8328926) · [Find the hiring manager](https://warmada.com/job/ripple-professional-services-consultant-74e7fa59-7fd3-498e-b36a-ffde25b216bb?utm_source=github&utm_medium=list&utm_campaign=miami) |
-
 ## Operations (4)
 
 | Company | Role | Location | Posted | Links |
@@ -46,14 +40,15 @@ A bad listing? Email hello@warmada.com with the link.
 | Gemini | Senior Associate, Fraud Operations | New York, New York; Miami, Florida; Remote (USA) | Nov 2 | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8328881&gh_jid=8328881) · [Find the hiring manager](https://warmada.com/job/gemini-senior-associate-fraud-operations-7501fc4a-d158-4edb-bd8e-e3ad9f5cbdff?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Project Manager | Miami, FL, United States | Oct 28 | [Apply](https://ripple.com/careers/all-jobs/job/8329000?gh_jid=8329000) · [Find the hiring manager](https://warmada.com/job/ripple-project-manager-0b021e55-6dc8-4110-87dd-e3653e063966?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Other (14)
+## Other (15)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=miami) | Parts Assistant | Miami, FL | Nov 10 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8368179) · [Find the hiring manager](https://warmada.com/job/equipmentshare-parts-assistant-92c1058d-4d87-4fc4-95f4-d13d58a01fa7?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=miami) | Associate Clinical Oncology Specialist (Miami East) | Miami, FL | Nov 9 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6252770004) · [Find the hiring manager](https://warmada.com/job/natera-associate-clinical-oncology-specialist-miami-east-3c79da37-8d0a-4f57-9372-cc1f5187ad99?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Technical Success Manager | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Houston, Texas, USA; Miami, Florida, USA | Nov 6 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5441727008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-technical-success-manager-ca8d73d8-b61c-43b0-9b68-3d7871060ebf?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| New Relic | Senior Technical Success Manager | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Houston, Texas, USA; Miami, Florida, USA | Nov 6 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5441727008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-technical-success-manager-ca8d73d8-b61c-43b0-9b68-3d7871060ebf?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [CoreWeave](https://warmada.com/companies/coreweave?utm_source=github&utm_medium=list&utm_campaign=miami) | Data Center Technician - Miami, FL | Miami, FL | Nov 5 | [Apply](https://coreweave.com/careers/job?4727033006&board=coreweave&gh_jid=4727033006) · [Find the hiring manager](https://warmada.com/job/coreweave-data-center-technician-miami-fl-75c5c92f-14f0-43e0-800b-6917a51c7310?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Leasing Consultant | MIAMI, FL, 33127 | Nov 5 | [Apply](https://www.bozzuto.com/careers/job-search/5474204008/?gh_jid=5474204008) · [Find the hiring manager](https://warmada.com/job/bozzuto-leasing-consultant-86d7aa25-be50-4d40-b2fe-006c4b8107d9?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Leasing Consultant ($1,500 Sign On Bonus) | MIAMI, FL, 33127 | Nov 5 | [Apply](https://www.bozzuto.com/careers/job-search/5474204008/?gh_jid=5474204008) · [Find the hiring manager](https://warmada.com/job/bozzuto-leasing-consultant-1-500-sign-on-bonus-86d7aa25-be50-4d40-b2fe-006c4b8107d9?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Gopuff](https://warmada.com/companies/gopuff?utm_source=github&utm_medium=list&utm_campaign=miami) | Category Manager - General Merchandise | Miami, FL | Nov 4 | [Apply](https://jobs.lever.co/gopuff/5a073415-cddf-4ede-b565-7d8c902107d6) · [Find the hiring manager](https://warmada.com/job/gopuff-category-manager-general-merchandise-9ef71dfe-10af-4ccc-863f-0e737715cf5b?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [serverobotics.com](https://warmada.com/companies/serverobotics-com?utm_source=github&utm_medium=list&utm_campaign=miami) | Service Technician II | Miami, FL | Nov 3 | [Apply](https://jobs.ashbyhq.com/serverobotics/d1928ef2-6088-4c69-9894-5ca3b6aaff76) · [Find the hiring manager](https://warmada.com/job/serverobotics-com-service-technician-ii-2cb9b151-4aa5-45b0-821d-c9847e3e4c8c?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=miami) | Service Assistant - Miami, FL | Miami, FL | Nov 3 | [Apply](https://lucidmotors.com/careers/search/5282861007?gh_jid=5282861007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-service-assistant-miami-fl-ae13812a-770f-46b3-94d1-6a2452e0de72?utm_source=github&utm_medium=list&utm_campaign=miami) |
