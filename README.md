@@ -1,6 +1,6 @@
 # Miami Jobs
 
-Open roles in Miami: 19 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-14.
+Open roles in Miami: 19 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-15.
 
 All 19 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
