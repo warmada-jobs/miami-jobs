@@ -1,6 +1,6 @@
 # Miami Jobs
 
-Open roles in Miami: 19 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-15.
+Open roles in Miami: 19 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-16.
 
 All 19 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
@@ -14,15 +14,15 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Mining Pool &amp; Firmware | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/fb381f98-971c-4b3c-92c9-bd3b3fe10b15) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-mining-pool-and-firmware-8a53dcdc-c196-4ece-8231-659b32fddb7a?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Mining Pool &amp; Firmware | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/fb381f98-971c-4b3c-92c9-bd3b3fe10b15) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-mining-pool-and-firmware-8a53dcdc-c196-4ece-8231-659b32fddb7a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
 ## Sales (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Bitcoin Mining Services - Business Development | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/728b990b-6ff1-4e87-ba05-27d48cad768f) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-bitcoin-mining-services-business-development-a4441839-cff9-48ae-bbca-afde1dd39ad7?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Energy &amp; Commander | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-energy-and-commander-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Solutions Architect (Pre-Sales) | Atlanta; Charlotte; Miami; Orlando; Raleigh | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8381821) · [Find the hiring manager](https://warmada.com/job/mongodb-senior-solutions-architect-pre-sales-1f86b399-a672-4fa3-816f-26d91d2b8a2c?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Energy &amp; Commander | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-energy-and-commander-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Bitcoin Mining Services - Business Development | Miami, FL | Nov 6 | [Apply](https://jobs.ashbyhq.com/luxor/728b990b-6ff1-4e87-ba05-27d48cad768f) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-bitcoin-mining-services-business-development-a4441839-cff9-48ae-bbca-afde1dd39ad7?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | HP Retail Sales Representative | Miami, FL | Nov 3 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/HP-Retail-Sales-Representative_REQ_116096) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-hp-retail-sales-representative-0f3afe51-976e-491b-88e3-965270f1604f?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
 ## Operations (3)
