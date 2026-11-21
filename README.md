@@ -1,19 +1,20 @@
 # Miami Jobs
 
-Open roles in Miami: 19 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-20.
+Open roles in Miami: 20 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-21.
 
-All 19 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
+All 20 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
-**By role:** Software Engineering (1) · Marketing (1) · Sales (6) · Operations (2) · Other (9)
+**By role:** Software Engineering (2) · Marketing (1) · Sales (6) · Operations (1) · Other (10)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Miami. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (1)
+## Software Engineering (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Staff Software Engineer | Miami, FL, United States | Nov 20 | [Apply](https://ripple.com/careers/all-jobs/job/8407049?gh_jid=8407049) · [Find the hiring manager](https://warmada.com/job/ripple-staff-software-engineer-4021a455-5246-401c-aa9f-4c48aa4501b1?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Mining Pool &amp; Firmware | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/fb381f98-971c-4b3c-92c9-bd3b3fe10b15) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-mining-pool-and-firmware-8a53dcdc-c196-4ece-8231-659b32fddb7a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
 ## Marketing (1)
@@ -33,17 +34,17 @@ A bad listing? Email hello@warmada.com with the link.
 | [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Energy &amp; Commander | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-energy-and-commander-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Solutions Architect (Pre-Sales) | Atlanta; Charlotte; Miami; Orlando; Raleigh | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8381821) · [Find the hiring manager](https://warmada.com/job/mongodb-senior-solutions-architect-pre-sales-1f86b399-a672-4fa3-816f-26d91d2b8a2c?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Operations (2)
+## Operations (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=miami) | District Operations Manager | Miami, FL | Nov 17 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8396143) · [Find the hiring manager](https://warmada.com/job/equipmentshare-district-operations-manager-2efc7bc9-35e4-4a56-b90a-dc6333c2b4c4?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=miami) | Impact Fees and Special Assessments Project Manager | Fort Lauderdale, FL; Jacksonville, FL; Miami, FL; Tallahassee, FL; Tampa, FL | Nov 6 | [Apply](https://www.benesch.com/job-openings/5287898007?gh_jid=5287898007) · [Find the hiring manager](https://warmada.com/job/benesch-impact-fees-and-special-assessments-project-manager-adde1f7f-8156-4450-acff-1212bc91b96d?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Other (9)
+## Other (10)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Overnight Concierge (Sun-Thurs, 11p-7a) - Miami, FL | MIAMI, FL, 33127 | Nov 20 | [Apply](https://www.bozzuto.com/careers/job-search/5486683008/?gh_jid=5486683008) · [Find the hiring manager](https://warmada.com/job/bozzuto-overnight-concierge-sun-thurs-11p-7a-miami-fl-36f158b3-4c24-448a-af99-321d8509ba11?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Palette Media](https://warmada.com/companies/palette-media?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Producer / Executive Producer | Miami, FL | Nov 19 | [Apply](https://jobs.ashbyhq.com/palette-media/b2846983-4f0b-4302-9e77-5d59de0a35d4) · [Find the hiring manager](https://warmada.com/job/palette-media-senior-producer-executive-producer-1b18b269-192f-41f9-b33a-1a36e95c8c32?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Palette Media](https://warmada.com/companies/palette-media?utm_source=github&utm_medium=list&utm_campaign=miami) | Personal Assistant | Miami, FL | Nov 19 | [Apply](https://jobs.ashbyhq.com/palette-media/6ac93d31-2dc5-4592-a7d4-c4762f060e3a) · [Find the hiring manager](https://warmada.com/job/palette-media-personal-assistant-a3c68872-9e90-46f2-b2ff-33f07e50ecc1?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [EOS](https://warmada.com/companies/eos?utm_source=github&utm_medium=list&utm_campaign=miami) | Deployment Technician | Miami, Florida, United States | Nov 18 | [Apply](https://eosits.com/company/careers/?gh_jid=8949064002) · [Find the hiring manager](https://warmada.com/job/eos-deployment-technician-23854496-d234-4b2d-8f24-8b38433dae3b?utm_source=github&utm_medium=list&utm_campaign=miami) |
