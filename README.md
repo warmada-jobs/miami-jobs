@@ -1,21 +1,20 @@
 # Miami Jobs
 
-Open roles in Miami: 23 roles at 12 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-24.
+Open roles in Miami: 22 roles at 13 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-25.
 
-All 23 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
+All 22 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
-**By role:** Software Engineering (2) · Marketing (1) · Sales (8) · HR & Recruiting (1) · Other (11)
+**By role:** Software Engineering (1) · Marketing (1) · Sales (8) · HR & Recruiting (1) · Other (11)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Miami. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (2)
+## Software Engineering (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Staff Software Engineer (Multiple Positions) | Miami, FL, United States | Nov 20 | [Apply](https://ripple.com/careers/all-jobs/job/8407049?gh_jid=8407049) · [Find the hiring manager](https://warmada.com/job/ripple-staff-software-engineer-multiple-positions-4021a455-5246-401c-aa9f-4c48aa4501b1?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Mining Pool &amp; Firmware | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/fb381f98-971c-4b3c-92c9-bd3b3fe10b15) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-mining-pool-and-firmware-8a53dcdc-c196-4ece-8231-659b32fddb7a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
 ## Marketing (1)
 
@@ -27,12 +26,12 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Luxor Technology Corporation | Business Development – Energy | Miami, FL | Nov 24 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-energy-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
+| [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=miami) | Sales Specialist | Miami, FL | Nov 24 | [Apply](https://lucidmotors.com/careers/search/5308126007?gh_jid=5308126007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-sales-specialist-6a565dee-bf16-49af-8ad3-bb6eed33f3ad?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | Samsung Field Sales Manager - Bilingual | Miami, FL | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/Samsung-Field-Sales-Manager---Bilingual_REQ_117132) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-samsung-field-sales-manager-bilingual-87de9fcd-6994-43e0-b5b4-092aa366cfe9?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Kaseya Careers](https://warmada.com/companies/kaseya-careers?utm_source=github&utm_medium=list&utm_campaign=miami) | Sales Development Representative | Miami, FL | Nov 19 | [Apply](https://www.kaseya.com/careers/jobs/id/6266743004/?gh_jid=6266743004) · [Find the hiring manager](https://warmada.com/job/kaseya-careers-sales-development-representative-deaf0013-2ac6-4a70-a177-f371a7169a62?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Live Parallel](https://warmada.com/companies/live-parallel?utm_source=github&utm_medium=list&utm_campaign=miami) | Part Time Lead Retail Sales Associate 18-25 hours/week | Miami, FL (72nd St.) | Nov 16 | [Apply](https://job-boards.greenhouse.io/liveparalleljobs/jobs/8945609002) · [Find the hiring manager](https://warmada.com/job/live-parallel-part-time-lead-retail-sales-associate-18-25-hours-week-c0e811b1-c52a-4894-9632-9db174e6d25f?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Live Parallel](https://warmada.com/companies/live-parallel?utm_source=github&utm_medium=list&utm_campaign=miami) | Part-Time Retail Sales Associate - Dadeland 15-20 hours/week! | Miami, Florida, United States | Nov 16 | [Apply](https://job-boards.greenhouse.io/liveparalleljobs/jobs/8945547002) · [Find the hiring manager](https://warmada.com/job/live-parallel-part-time-retail-sales-associate-dadeland-15-20-hours-week-dcfbfa0e-b2c5-4ab1-8b01-911b9690683e?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Bitcoin Mining Services - Business Development | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/728b990b-6ff1-4e87-ba05-27d48cad768f) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-bitcoin-mining-services-business-development-a4441839-cff9-48ae-bbca-afde1dd39ad7?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Luxor Technology Corporation](https://warmada.com/companies/luxor-technology-corporation?utm_source=github&utm_medium=list&utm_campaign=miami) | Business Development – Energy &amp; Commander | Miami, FL | Nov 13 | [Apply](https://jobs.ashbyhq.com/luxor/3686cf8f-4a7e-4a17-9ec8-3afc4153f4ba) · [Find the hiring manager](https://warmada.com/job/luxor-technology-corporation-business-development-energy-and-commander-8ba8bb11-7f4c-4d3e-86db-70c8ad13fb4a?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Kaseya Careers](https://warmada.com/companies/kaseya-careers?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Account Manager | Miami, FL | Nov 13 | [Apply](https://www.kaseya.com/careers/jobs/id/6261183004/?gh_jid=6261183004) · [Find the hiring manager](https://warmada.com/job/kaseya-careers-senior-account-manager-741e07b8-5047-459a-91a6-40d1c3438bef?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Solutions Architect (Pre-Sales) | Atlanta; Charlotte; Miami; Orlando; Raleigh | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8381821) · [Find the hiring manager](https://warmada.com/job/mongodb-senior-solutions-architect-pre-sales-1f86b399-a672-4fa3-816f-26d91d2b8a2c?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
