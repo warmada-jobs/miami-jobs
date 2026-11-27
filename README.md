@@ -1,10 +1,10 @@
 # Miami Jobs
 
-Open roles in Miami: 21 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-26.
+Open roles in Miami: 16 roles at 12 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=miami).** Last updated 2026-11-27.
 
-All 21 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
+All 16 are listed below. Browse the newest on [warmada.com/jobs/miami](https://warmada.com/jobs/miami?utm_source=github&utm_medium=list&utm_campaign=miami).
 
-**By role:** Software Engineering (1) · Marketing (1) · Sales (7) · Other (12)
+**By role:** Software Engineering (1) · Sales (6) · Other (9)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Miami. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -16,13 +16,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Ripple](https://warmada.com/companies/ripple?utm_source=github&utm_medium=list&utm_campaign=miami) | Staff Software Engineer (Multiple Positions) | Miami, FL, United States | Nov 20 | [Apply](https://ripple.com/careers/all-jobs/job/8407049?gh_jid=8407049) · [Find the hiring manager](https://warmada.com/job/ripple-staff-software-engineer-multiple-positions-4021a455-5246-401c-aa9f-4c48aa4501b1?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Marketing (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=miami) | Startup Lifecycle Marketing Lead | Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=miami) |
-
-## Sales (7)
+## Sales (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -32,9 +26,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=miami) | Samsung Field Sales Manager - Bilingual | Miami, FL | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Miami-FL/Samsung-Field-Sales-Manager---Bilingual_REQ_117132) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-samsung-field-sales-manager-bilingual-87de9fcd-6994-43e0-b5b4-092aa366cfe9?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Live Parallel](https://warmada.com/companies/live-parallel?utm_source=github&utm_medium=list&utm_campaign=miami) | Part Time Lead Retail Sales Associate 18-25 hours/week | Miami, FL (72nd St.) | Nov 16 | [Apply](https://job-boards.greenhouse.io/liveparalleljobs/jobs/8945609002) · [Find the hiring manager](https://warmada.com/job/live-parallel-part-time-lead-retail-sales-associate-18-25-hours-week-c0e811b1-c52a-4894-9632-9db174e6d25f?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Live Parallel](https://warmada.com/companies/live-parallel?utm_source=github&utm_medium=list&utm_campaign=miami) | Part-Time Retail Sales Associate - Dadeland 15-20 hours/week! | Miami, Florida, United States | Nov 16 | [Apply](https://job-boards.greenhouse.io/liveparalleljobs/jobs/8945547002) · [Find the hiring manager](https://warmada.com/job/live-parallel-part-time-retail-sales-associate-dadeland-15-20-hours-week-dcfbfa0e-b2c5-4ab1-8b01-911b9690683e?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Kaseya Careers](https://warmada.com/companies/kaseya-careers?utm_source=github&utm_medium=list&utm_campaign=miami) | Senior Account Manager | Miami, FL | Nov 13 | [Apply](https://www.kaseya.com/careers/jobs/id/6261183004/?gh_jid=6261183004) · [Find the hiring manager](https://warmada.com/job/kaseya-careers-senior-account-manager-741e07b8-5047-459a-91a6-40d1c3438bef?utm_source=github&utm_medium=list&utm_campaign=miami) |
 
-## Other (12)
+## Other (9)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -47,6 +40,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Hillel International](https://warmada.com/companies/hillel-international?utm_source=github&utm_medium=list&utm_campaign=miami) | Campus Rabbi at University of Miami Hillel | Miami, Florida, United States | Nov 17 | [Apply](https://job-boards.greenhouse.io/hillel/jobs/4755538005) · [Find the hiring manager](https://warmada.com/job/hillel-international-campus-rabbi-at-university-of-miami-hillel-acdeca2e-8106-407a-89c5-7402565199aa?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=miami) | Assistant General Manager ($1,500 Sign-On Bonus) | MIAMI, FL, 33137 | Nov 16 | [Apply](https://www.bozzuto.com/careers/job-search/5483885008/?gh_jid=5483885008) · [Find the hiring manager](https://warmada.com/job/bozzuto-assistant-general-manager-1-500-sign-on-bonus-77a00387-90b3-4673-9ddc-92a5328de882?utm_source=github&utm_medium=list&utm_campaign=miami) |
 | [Kaseya Careers](https://warmada.com/companies/kaseya-careers?utm_source=github&utm_medium=list&utm_campaign=miami) | Collections Specialist | Miami, FL | Nov 16 | [Apply](https://www.kaseya.com/careers/jobs/id/6238013004/?gh_jid=6238013004) · [Find the hiring manager](https://warmada.com/job/kaseya-careers-collections-specialist-ce817071-9ce8-4922-9a3b-7959727317b2?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Oscar Health](https://warmada.com/companies/oscar-health?utm_source=github&utm_medium=list&utm_campaign=miami) | Bilingual Case Manager | Miami, Florida, United States | Nov 13 | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8379619) · [Find the hiring manager](https://warmada.com/job/oscar-health-bilingual-case-manager-1c9a2c9a-a155-48cb-bcee-45e447724da9?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [Kaseya Careers](https://warmada.com/companies/kaseya-careers?utm_source=github&utm_medium=list&utm_campaign=miami) | Solution Specialist | Miami, FL | Nov 13 | [Apply](https://www.kaseya.com/careers/jobs/id/6261184004/?gh_jid=6261184004) · [Find the hiring manager](https://warmada.com/job/kaseya-careers-solution-specialist-0d93fc62-06fb-4a7b-bbf5-e5a00849535d?utm_source=github&utm_medium=list&utm_campaign=miami) |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=miami) | Manager, Solutions Consulting (LATAM) | Miami, Florida, USA | Nov 13 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5480569008) · [Find the hiring manager](https://warmada.com/job/new-relic-manager-solutions-consulting-latam-00fe0f08-6837-4054-a1cc-63abd253a899?utm_source=github&utm_medium=list&utm_campaign=miami) |
